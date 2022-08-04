@@ -1,4 +1,4 @@
-[# kottans-frontend](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
+[ # kottans-frontend](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
 
 # Git та GitHub
 
@@ -12,8 +12,9 @@
 2. Пройдіть наступні рівні тут learngitbranching.js.org:
 
   - Основи: Introduction Sequence
-  - Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
 ![Introduction Sequence](https://github.com/ValeriiZa/kottans-frontend/blob/019c55fde9ec9bbf306033b6d05c4e6ebc1a6fae/Screenshot%202022-08-03%20at%2023.03.15.png)
+
+  - Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
 ![Push & Pull -- Git Remotes!](./Screenshot%202022-08-04%20at%2020.07.24.png)
 
 3. Створіть репозиторій та назвіть його `kottans-frontend`.
@@ -63,7 +64,7 @@
 
  - [About Merge Conflicts](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
- - [Resoilving a Merge Conflict]{https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line}
+ - [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 
  - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 

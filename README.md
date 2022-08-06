@@ -10,6 +10,7 @@
 Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що це допоможе вам краще засвоїти відеокурс.
 
 ### Week 1
+
 <details>
 <summary>Course introduction.</summary>
 <p>
@@ -26,11 +27,9 @@ Could be usufull manual:
 <details>
 <summary>Befor version control.</summary>
 <p>
-```
 Схоже, Sublime.app використовує команду [`diff`](http://man7.org/linux/man-pages/man1/diff.1.html) для пошуку різниці між файлами.
 Дізнався нову команду [`patch`](http://man7.org/linux/man-pages/man1/patch.1.html). Разом із `diff` є зручний механізм для роботи зі змінами в текстових файлах. При нагоді буду використовувати 'diff' + 'patch', де не підходить графічний інтерфейс svn.
-![Befor version control is completed.](./https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.05.40.png)
-```
+![Befor version control is completed.](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.05.40.png)
 </p>
 </details>
 

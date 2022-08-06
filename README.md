@@ -9,6 +9,31 @@
 
 Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що це допоможе вам краще засвоїти відеокурс.
 
+### Week 1
+<details>
+<summary>Course introduction.</summary>
+<p>
+```
+Could be usufull manual:
+ - [Pro Git](https://git-scm.com/book/en/v2): This book (available online and in print) covers all the fundamentals of how Git works and how to use it. Refer to it if you want to learn more about the subjects that we cover throughout the course.
+ - [Git tutorial](https://git-scm.com/docs/gittutorial): This tutorial includes a very brief reference of all Git commands available. You can use it to quickly review the commands that you need to use.
+
+![Course introduction is completed.](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.07.21.png)
+```
+</p>
+</details>
+
+<details>
+<summary>Befor version control.</summary>
+<p>
+```
+Схоже, Sublime.app використовує команду [`diff`](http://man7.org/linux/man-pages/man1/diff.1.html) для пошуку різниці між файлами.
+Дізнався нову команду [`patch`](http://man7.org/linux/man-pages/man1/patch.1.html). Разом із `diff` є зручний механізм для роботи зі змінами в текстових файлах. При нагоді буду використовувати 'diff' + 'patch', де не підходить графічний інтерфейс svn.
+![Befor version control is completed.](./https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.05.40.png)
+```
+</p>
+</details>
+
 2. Пройдіть наступні рівні тут learngitbranching.js.org:
 
   - Основи: Introduction Sequence

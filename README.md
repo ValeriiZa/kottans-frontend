@@ -14,13 +14,12 @@
 <details>
 <summary>Course introduction.</summary>
 <p>
-```
 Could be usufull manual:
  - [Pro Git](https://git-scm.com/book/en/v2): This book (available online and in print) covers all the fundamentals of how Git works and how to use it. Refer to it if you want to learn more about the subjects that we cover throughout the course.
  - [Git tutorial](https://git-scm.com/docs/gittutorial): This tutorial includes a very brief reference of all Git commands available. You can use it to quickly review the commands that you need to use.
 
 ![Course introduction is completed.](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.07.21.png)
-```
+
 </p>
 </details>
 

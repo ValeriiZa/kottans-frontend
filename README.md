@@ -9,7 +9,7 @@
 
 Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що це допоможе вам краще засвоїти відеокурс.
 
-### Week 1
+#### Week 1
 
 <details>
 <summary>Course introduction.</summary>
@@ -27,8 +27,8 @@ Could be usufull manual:
 <details>
 <summary>Befor version control.</summary>
 <p>
-Схоже, Sublime.app використовує команду [diff](http://man7.org/linux/man-pages/man1/diff.1.html) для пошуку різниці між файлами.
-Дізнався нову команду [patch](http://man7.org/linux/man-pages/man1/patch.1.html) . Разом із `diff` є зручний механізм для роботи зі змінами в текстових файлах. При нагоді буду використовувати 'diff' + 'patch', де не підходить графічний інтерфейс svn.
+Схоже, Sublime.app використовує команду [diff](https://man7.org/linux/man-pages/man1/diff.1.html) для пошуку різниці між файлами.
+Дізнався нову команду [patch](https://man7.org/linux/man-pages/man1/patch.1.html) . Разом із `diff` є зручний механізм для роботи зі змінами в текстових файлах. При нагоді буду використовувати 'diff' + 'patch', де не підходить графічний інтерфейс svn.
 
 ![Befor version control is completed.](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.05.40.png)
 
@@ -44,14 +44,33 @@ Could be usufull manual:
 </p>
 </details>
 
+#### Week 2
+
+<details>
+<summary>"Advanced Git interaction", "Undoing Things", "Using GIT", "Module Wrap Up"</summary>
+<p>
+
+!["Version control system", "Using GIT", "Module Wrap Up"](https://github.com/ValeriiZa/kottans-frontend/blob/1a5ce99c7c8c13ed480387c429b08b0852fb2684/Screenshot%202022-08-07%20at%2023.43.44.png)
+
+</p>
+</details>
+
 
 2. Пройдіть наступні рівні тут learngitbranching.js.org:
 
-  - Основи: Introduction Sequence
+<details>
+<summary>Основи: Introduction Sequence</summary>
+<p>
 ![Introduction Sequence](https://github.com/ValeriiZa/kottans-frontend/blob/019c55fde9ec9bbf306033b6d05c4e6ebc1a6fae/Screenshot%202022-08-03%20at%2023.03.15.png)
+</p>
+</details>
 
-  - Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
+<details>
+<summary>Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!</summary>
+<p>
 ![Push & Pull -- Git Remotes!](./Screenshot%202022-08-04%20at%2020.07.24.png)
+</p>
+</details>
 
 3. Створіть репозиторій та назвіть його `kottans-frontend`.
 
@@ -66,6 +85,7 @@ Could be usufull manual:
 **Сподобалась** 'git cherry-pick <Commit1> <Commit2> ...: на відміну від `git merge <Commit>` дозволяє кілька вказаних комітів додати.
 Та й взагалі, добрі люди створили цей сайтец.
 
+В Курсері сподовся механізм перевірки прослуханого відео: тест, і додавання короткої виписки для користування командами (крім лінків на мануал розробника).
 
 6. Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.
 

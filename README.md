@@ -25,12 +25,13 @@ Could be usufull manual:
 </details>
 
 <details>
-<summary>Befor version control.</summary>
+<summary>Befor version control</summary>
 <p>
+ 
 Схоже, Sublime.app використовує команду [diff](https://man7.org/linux/man-pages/man1/diff.1.html) для пошуку різниці між файлами.
 Дізнався нову команду [patch](https://man7.org/linux/man-pages/man1/patch.1.html) . Разом із `diff` є зручний механізм для роботи зі змінами в текстових файлах. При нагоді буду використовувати 'diff' + 'patch', де не підходить графічний інтерфейс svn.
 
-![Befor version control is completed.](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.05.40.png)
+![Befor version control is completed](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.05.40.png)
 
 </p>
 </details>
@@ -61,14 +62,18 @@ Could be usufull manual:
 <details>
 <summary>Основи: Introduction Sequence</summary>
 <p>
+ 
 ![Introduction Sequence](https://github.com/ValeriiZa/kottans-frontend/blob/019c55fde9ec9bbf306033b6d05c4e6ebc1a6fae/Screenshot%202022-08-03%20at%2023.03.15.png)
+
 </p>
 </details>
 
 <details>
 <summary>Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!</summary>
 <p>
-![Push & Pull -- Git Remotes!](./Screenshot%202022-08-04%20at%2020.07.24.png)
+
+![Push \& Pull -- Git Remotes!](https://github.com/ValeriiZa/kottans-frontend/blob/fb769917b85b416f2f7178655bedbe3290253dbc/Screenshot%202022-08-04%20at%2020.07.24.png)
+ 
 </p>
 </details>
 
@@ -85,7 +90,7 @@ Could be usufull manual:
 **Сподобалась** 'git cherry-pick <Commit1> <Commit2> ...: на відміну від `git merge <Commit>` дозволяє кілька вказаних комітів додати.
 Та й взагалі, добрі люди створили цей сайтец.
 
-В Курсері сподовся механізм перевірки прослуханого відео: тест, і додавання короткої виписки для користування командами (крім лінків на мануал розробника).
+В Курсері **сподовся** механізм перевірки прослуханого відео: тест, і додавання короткої [виписки](https://training.github.com/downloads/github-git-cheat-sheet.pdf) для користування командами (крім лінків на [мануал](https://git-scm.com/docs/gittutorial) розробника).
 
 6. Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.
 
@@ -136,3 +141,6 @@ Could be usufull manual:
 
 ⤴️ Повернутися до змісту курсу: [Contents](https://github.com/kottans/frontend/blob/2022_UA/contents.md)
 
+
+ 
+<sup>Як стверджує народна мудрість від китайців-одногрупників: я умію - ти умієш.</sup>

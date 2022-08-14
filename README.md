@@ -81,7 +81,9 @@ Could be usufull manual:
 
 4. Створіть `README.md` для репозиторію.
 
-5. Опишіть свої враження від вивченого матеріалу.
+<details>
+<summary>5. Опишіть свої враження від вивченого матеріалу.</summary>
+<p>
 
 **Здивувало**. В описі [https://learngitbranching.js.org](https://learngitbranching.js.org) говорять, що команда `git switch` є експерементальною, але не вказують станом на який рік. Пропонують використовувати `git checkout`. 
 А в [https://git-scm.com/docs/gittutorial](https://git-scm.com/docs/gittutorial) говориться вже про єдину команду `git switch`.
@@ -92,7 +94,13 @@ Could be usufull manual:
 
 В Курсері **сподовся** механізм перевірки прослуханого відео: тест, і додавання короткої [виписки](https://training.github.com/downloads/github-git-cheat-sheet.pdf) для користування командами (крім лінків на [мануал](https://git-scm.com/docs/gittutorial) розробника).
 
-6. Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.
+</p>
+</details>
+
+
+<details>
+<summary>6. Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.</summary>
+<p>
 
   **Як зробити pull-request**
 
@@ -111,7 +119,12 @@ Could be usufull manual:
   - Якщо вас попросять виправити merge конфлікт, зверніться до додаткових матеріалів для отримання відповідної інформації
 **Зауважте, що ваш PR можуть не розглянути швидко.**
 
-7. Вивчіть додаткові матеріали нижче, щоб покращити свої навички. Якщо ви вважаєте, що це вплине на вашу загальну ефективність курсу, подумайте над тим, щоб повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.
+</p>
+</details>
+
+<details>
+<summary>7. Вивчіть додаткові матеріали нижче, щоб покращити свої навички. Якщо ви вважаєте, що це вплине на вашу загальну ефективність курсу, подумайте над тим, щоб повернутись до них пізніше, наприклад коли ви виконаєте всі обов’язкові завдання.</summary>
+<p>
 
 Коли ви закінчите це завдання, ви можете приступити до наступного.
 
@@ -141,6 +154,31 @@ Could be usufull manual:
 
 ⤴️ Повернутися до змісту курсу: [Contents](https://github.com/kottans/frontend/blob/2022_UA/contents.md)
 
+</p>
+</details>
 
  
+## Linux CLI, and HTTP
+
+RSA: Rivest - Shamir - Adelman (Рон Рівест, Аді Шамір і Леонард Адлман)!
+
+<details>
+<summary>Linux CLI</summary>
+<p>
+
+Напередодні знайшов ключ до команди ```kill -9 PID```. Ото б пройти цей квест раніше. =)
+Дивно, ніколи не задумувався достукуватись до домашньої директорії іншого користувача на компі ```~userName/```
+
+![Quiz 1](https://github.com/ValeriiZa/kottans-frontend/blob/f29f9e01f440c0dc6e9d8fed6d53179d182cddf9/task_linux_cli/Screenshot%202022-08-09%20at%2015.28.30.png)
+
+![Quiz 2](https://github.com/ValeriiZa/kottans-frontend/blob/f29f9e01f440c0dc6e9d8fed6d53179d182cddf9/task_linux_cli/Screenshot%202022-08-09%20at%2021.28.30.png)
+
+![Quiz 3](https://github.com/ValeriiZa/kottans-frontend/blob/f29f9e01f440c0dc6e9d8fed6d53179d182cddf9/task_linux_cli/Screenshot%202022-08-11%20at%2000.13.16.png)
+
+![Quiz 4](https://github.com/ValeriiZa/kottans-frontend/blob/f29f9e01f440c0dc6e9d8fed6d53179d182cddf9/task_linux_cli/Screenshot%202022-08-11%20at%2000.46.38.png)
+
+</p>
+</details>
+
+
 <sup>Як стверджує народна мудрість від китайців-одногрупників: я умію - ти умієш.</sup>

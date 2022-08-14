@@ -7,75 +7,75 @@
 1. Прослухайте тижні 1 і 2 курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 Для того, щоб проходити курс безкоштовно, треба натиснути кнопку "Enroll for free" і потім на лінк внизу "Audit course"
 
-Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що це допоможе вам краще засвоїти відеокурс.
+  Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що це допоможе вам краще засвоїти відеокурс.
 
- #### Week 1
+   #### Week 1
 
-<details>
-<summary>Course introduction.</summary>
-<p>
+  <details>
+  <summary>Course introduction.</summary>
+  <p>
 
-Could be usufull manual:
- - [Pro Git](https://git-scm.com/book/en/v2) : This book (available online and in print) covers all the fundamentals of how Git works and how to use it. Refer to it if you want to learn more about the subjects that we cover throughout the course.
- - [Git tutorial](https://git-scm.com/docs/gittutorial) : This tutorial includes a very brief reference of all Git commands available. You can use it to quickly review the commands that you need to use.
+  Could be usufull manual:
+   - [Pro Git](https://git-scm.com/book/en/v2) : This book (available online and in print) covers all the fundamentals of how Git works and how to use it. Refer to it if you want to learn more about the subjects that we cover throughout the course.
+   - [Git tutorial](https://git-scm.com/docs/gittutorial) : This tutorial includes a very brief reference of all Git commands available. You can use it to quickly review the commands that you need to use.
 
-![Course introduction is completed.](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.07.21.png)
+  ![Course introduction is completed.](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.07.21.png)
 
-</p>
-</details>
+  </p>
+  </details>
 
-<details>
-<summary>Befor version control</summary>
-<p>
- 
-Схоже, Sublime.app використовує команду [diff](https://man7.org/linux/man-pages/man1/diff.1.html) для пошуку різниці між файлами.
-Дізнався нову команду [patch](https://man7.org/linux/man-pages/man1/patch.1.html) . Разом із `diff` є зручний механізм для роботи зі змінами в текстових файлах. При нагоді буду використовувати 'diff' + 'patch', де не підходить графічний інтерфейс svn.
+  <details>
+  <summary>Befor version control</summary>
+  <p>
 
-![Befor version control is completed](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.05.40.png)
+  Схоже, Sublime.app використовує команду [diff](https://man7.org/linux/man-pages/man1/diff.1.html) для пошуку різниці між файлами.
+  Дізнався нову команду [patch](https://man7.org/linux/man-pages/man1/patch.1.html) . Разом із `diff` є зручний механізм для роботи зі змінами в текстових файлах. При нагоді буду використовувати 'diff' + 'patch', де не підходить графічний інтерфейс svn.
 
-</p>
-</details>
+  ![Befor version control is completed](https://github.com/ValeriiZa/kottans-frontend/blob/abab7381ebda699e5af3b8799dfac75f5a64e9d7/Screenshot%202022-08-06%20at%2002.05.40.png)
 
-<details>
-<summary>"Version control system", "Using GIT", "Module Wrap Up"</summary>
-<p>
+  </p>
+  </details>
 
-!["Version control system", "Using GIT", "Module Wrap Up"](https://github.com/ValeriiZa/kottans-frontend/blob/ef9d3a99b58484531e880de00b2210e538c4664b/Screenshot%202022-08-06%20at%2021.58.38.png)
+  <details>
+  <summary>"Version control system", "Using GIT", "Module Wrap Up"</summary>
+  <p>
 
-</p>
-</details>
+  !["Version control system", "Using GIT", "Module Wrap Up"](https://github.com/ValeriiZa/kottans-frontend/blob/ef9d3a99b58484531e880de00b2210e538c4664b/Screenshot%202022-08-06%20at%2021.58.38.png)
 
- #### Week 2
+  </p>
+  </details>
 
-<details>
-<summary>"Advanced Git interaction", "Undoing Things", "Using GIT", "Module Wrap Up"</summary>
-<p>
+   #### Week 2
 
-!["Version control system", "Using GIT", "Module Wrap Up"](https://github.com/ValeriiZa/kottans-frontend/blob/1a5ce99c7c8c13ed480387c429b08b0852fb2684/Screenshot%202022-08-07%20at%2023.43.44.png)
+  <details>
+  <summary>"Advanced Git interaction", "Undoing Things", "Using GIT", "Module Wrap Up"</summary>
+  <p>
 
-</p>
-</details>
+  !["Version control system", "Using GIT", "Module Wrap Up"](https://github.com/ValeriiZa/kottans-frontend/blob/1a5ce99c7c8c13ed480387c429b08b0852fb2684/Screenshot%202022-08-07%20at%2023.43.44.png)
+
+  </p>
+  </details>
 
 
 2. Пройдіть наступні рівні тут learngitbranching.js.org:
 
-<details>
-<summary>Основи: Introduction Sequence</summary>
-<p>
- 
-![Introduction Sequence](https://github.com/ValeriiZa/kottans-frontend/blob/019c55fde9ec9bbf306033b6d05c4e6ebc1a6fae/Screenshot%202022-08-03%20at%2023.03.15.png)
+  <details>
+  <summary>Основи: Introduction Sequence</summary>
+  <p>
 
-</p>
-</details>
+  ![Introduction Sequence](https://github.com/ValeriiZa/kottans-frontend/blob/019c55fde9ec9bbf306033b6d05c4e6ebc1a6fae/Screenshot%202022-08-03%20at%2023.03.15.png)
 
-<details>
-<summary>Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!</summary>
-<p>
+  </p>
+  </details>
 
-![Push \& Pull -- Git Remotes!](https://github.com/ValeriiZa/kottans-frontend/blob/fb769917b85b416f2f7178655bedbe3290253dbc/Screenshot%202022-08-04%20at%2020.07.24.png)
- 
-</p>
-</details>
+  <details>
+  <summary>Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!</summary>
+  <p>
+
+  ![Push \& Pull -- Git Remotes!](https://github.com/ValeriiZa/kottans-frontend/blob/fb769917b85b416f2f7178655bedbe3290253dbc/Screenshot%202022-08-04%20at%2020.07.24.png)
+
+  </p>
+  </details>
 
 3. Створіть репозиторій та назвіть його `kottans-frontend`.
 
@@ -101,6 +101,7 @@ Could be usufull manual:
 <details>
 <summary>
 6. Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.
+ 
 </summary>
 <p>
 

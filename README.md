@@ -9,7 +9,7 @@
 
 Ви можете вдатися до автоматично перекладених субтитрів, зокрема, якщо ви відчуваєте що це допоможе вам краще засвоїти відеокурс.
 
-#### Week 1
+ #### Week 1
 
 <details>
 <summary>Course introduction.</summary>
@@ -45,7 +45,7 @@ Could be usufull manual:
 </p>
 </details>
 
-#### Week 2
+ #### Week 2
 
 <details>
 <summary>"Advanced Git interaction", "Undoing Things", "Using GIT", "Module Wrap Up"</summary>
@@ -100,9 +100,7 @@ Could be usufull manual:
 
 <details>
 <summary>
-
 6. Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.
-
 </summary>
 <p>
 

@@ -99,7 +99,11 @@ Could be usufull manual:
 
 
 <details>
-<summary>6. Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.</summary>
+<summary>
+
+6. Надішліть pull-request сюди [Kottans/mock-repo](https://github.com/Kottans/mock-repo) пропонуючи зміни.
+
+</summary>
 <p>
 
   **Як зробити pull-request**
@@ -160,7 +164,10 @@ Could be usufull manual:
  
 ## Linux CLI, and HTTP
 
+[Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
+
 RSA: Rivest - Shamir - Adelman (Рон Рівест, Аді Шамір і Леонард Адлман)!
+
 
 <details>
 <summary>Linux CLI</summary>

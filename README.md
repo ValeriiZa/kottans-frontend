@@ -194,6 +194,8 @@ RSA: Rivest - Shamir - Adelman (Рон Рівест, Аді Шамір і Лео
 <summary>Git Collaboration</summary>
 <p>
 
+[Git Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md) task.
+
 Для подальшого використання варто обміркувати думку створення гілки тільки під реліз/зборку.
 
 Коміти найменшу логічну зміни окремо (навіть якщо це: декорація, одруківка, ...)!

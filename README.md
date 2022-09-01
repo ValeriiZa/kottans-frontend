@@ -214,5 +214,27 @@ RSA: Rivest - Shamir - Adelman (Рон Рівест, Аді Шамір і Лео
 </details>
 
 
+## Intro to HTML and CSS
+
+
+<details>
+<summary>Intro to HTML and CSS</summary>
+<p>
+
+Intro to HTML and CSS [tasks](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md).
+
+Google Fonts [https://fonts.google.com](https://fonts.google.com).
+
+Coursera HTML, CSS, JS week1:
+
+<img src="https://github.com/ValeriiZa/kottans-frontend/blob/d097366febb40fa844797c605cba08d638b7a6df/task_html_css_intro/Screenshot%202022-08-25%20at%2001.01.32.png" width="480">
+
+Coursera HTML, CSS, JS week2:
+
+<img src="https://github.com/ValeriiZa/kottans-frontend/blob/d097366febb40fa844797c605cba08d638b7a6df/task_html_css_intro/Screenshot%202022-08-27%20at%2013.30.20.png" width="480">
+
+HTML CSS codecademy:
+
+<img src="https://github.com/ValeriiZa/kottans-frontend/blob/d097366febb40fa844797c605cba08d638b7a6df/task_html_css_intro/Screenshot%202022-09-01%20at%2016.55.47.png" width="640">
 
 <sup>Як стверджує народна мудрість від китайців-одногрупників: я умію - ти умієш.</sup>

@@ -223,6 +223,8 @@ RSA: Rivest - Shamir - Adelman (Рон Рівест, Аді Шамір і Лео
 
 Intro to HTML and CSS [tasks](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md).
 
+```browser-sync start --server --directory --files "*"```
+
 Google Fonts [https://fonts.google.com](https://fonts.google.com).
 
 Coursera HTML, CSS, JS week1:
